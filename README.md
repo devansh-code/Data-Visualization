@@ -1,1 +1,2 @@
 # Data-Visualization
+Data visualization project created with python, pandas, Matplotlib libraries etc. dataset which is used have information of college students (lpu). The visualizations are BMI comparison of hosteller and day scholar student displayed on scatter plot, effect of attendance on the grades of students displayed on subplot and effect of language of school education on the academic of the students in higher education
